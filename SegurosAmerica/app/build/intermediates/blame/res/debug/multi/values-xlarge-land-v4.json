@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/luchonet/.android/build-cache/566bcd2498fedc5910b47ac3a8d2bb6617c93a8b/output/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 63,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]

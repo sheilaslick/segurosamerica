@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/luchonet/.android/build-cache/e99202df6564062018406b0f1c984714ddc01bcf/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

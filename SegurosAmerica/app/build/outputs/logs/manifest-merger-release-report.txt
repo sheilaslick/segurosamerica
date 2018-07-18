@@ -1,0 +1,458 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/818a38c17d4e4b3c54f8214cde6a5c8a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/e2f6e8c724a699b017fb5ae5493fdcb4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/24e193c528d7258bec82bd92f2ce4bfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.0.aar/3277c1f0e7eee89033c976d806b44c97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/85d35c44cf4179a66e7481c3ef074d0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/083f83eacadbcc973575946f60c96d40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e13a5b86028722b9c1e8bfc5089451a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/5b5f8f6d5585e09d007babf0ab33bd1b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/83f029fa8c622b0a2f580a02b9f89dd8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/6b3d0588504e630b7f196816e8149fdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/1b0086887deee75be743f170bfeed56c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.0.aar/bf69b2955cd9984b8e8c964c0101238d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d77bf47d4d36d5e93fab76b4206aef42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/38782e2a0231a96acd5c84c2a9e3ddbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94fc8d4c2a963182f62e1860cdebb959/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/cf2b26145ed7205f9396eb0842f1f1c0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/f06e2f16deb0fae5beb95bc3ae418f58/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/425d1904a42d9d6690c36372ae6a649e/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14d7e29824195d619eed24eecb6479e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fcebb1869018c23f6dab977da863bdd3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/191427dddf64c953ebacc16f58f92651/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14354b2c8f31b6e37fb0995b8b974dbd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+	package
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:11-69
+supports-screens
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:4:5-7:40
+	android:largeScreens
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:6:9-36
+	android:smallScreens
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:4:23-50
+	android:normalScreens
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:5:9-37
+	android:xlargeScreens
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:7:9-37
+permission#com.segurosamerica.nicaragua.permission.MAPS_RECEIVE
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:9:5-11:47
+	android:protectionLevel
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:10:9-76
+uses-permission#com.segurosamerica.nicaragua.permission.MAPS_RECEIVE
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:13:5-92
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:13:22-89
+uses-permission#android.permission.INTERNET
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:17:5-98
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:17:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:22:22-66
+uses-feature#0x00020000
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:25:5-27:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:26:9-41
+	android:required
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:27:9-32
+application
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:29:5-186:19
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/818a38c17d4e4b3c54f8214cde6a5c8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/818a38c17d4e4b3c54f8214cde6a5c8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/e2f6e8c724a699b017fb5ae5493fdcb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/e2f6e8c724a699b017fb5ae5493fdcb4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/5b5f8f6d5585e09d007babf0ab33bd1b/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.0.aar/5b5f8f6d5585e09d007babf0ab33bd1b/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/83f029fa8c622b0a2f580a02b9f89dd8/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-location-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.0.aar/83f029fa8c622b0a2f580a02b9f89dd8/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/cf2b26145ed7205f9396eb0842f1f1c0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/cf2b26145ed7205f9396eb0842f1f1c0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/f06e2f16deb0fae5beb95bc3ae418f58/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/f06e2f16deb0fae5beb95bc3ae418f58/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/425d1904a42d9d6690c36372ae6a649e/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/425d1904a42d9d6690c36372ae6a649e/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:30:9-35
+meta-data#com.google.android.gms.version
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:34:9-36:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:35:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:38:9-40:71
+	android:value
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:40:13-68
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:39:13-62
+activity#com.segurosamerica.nicaragua.MainActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:44:9-51:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:46:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:49:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:45:13-69
+activity#com.segurosamerica.nicaragua.TutorialActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:52:9-59:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:55:13-45
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:54:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:53:13-73
+activity#com.segurosamerica.nicaragua.WhereIAmActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:60:9-66:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:63:13-61
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:62:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:65:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:61:13-73
+activity#com.segurosamerica.nicaragua.DigitalCardActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:67:9-73:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:70:13-64
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:69:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:72:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:68:13-76
+activity#com.segurosamerica.nicaragua.DigitalCardFormActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:74:9-80:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:77:13-69
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:76:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:79:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:75:13-80
+activity#com.segurosamerica.nicaragua.InsuranceAmericaActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:81:9-87:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:84:13-69
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:83:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:86:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:82:13-81
+activity#com.segurosamerica.nicaragua.RequestTheProductActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:88:9-94:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:91:13-71
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:90:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:93:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:89:13-82
+activity#com.segurosamerica.nicaragua.sa.CarsActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:95:9-101:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:98:13-56
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:97:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:100:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:96:13-72
+activity#com.segurosamerica.nicaragua.sa.HealthActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:102:9-108:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:105:13-58
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:104:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:107:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:103:13-74
+activity#com.segurosamerica.nicaragua.PageActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:109:9-115:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:112:13-56
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:111:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:114:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:110:13-69
+activity#com.segurosamerica.nicaragua.EmergencyNumbersActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:116:9-122:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:119:13-69
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:118:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:121:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:117:13-81
+activity#com.segurosamerica.nicaragua.sa.LifeActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:123:9-129:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:126:13-56
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:125:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:128:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:124:13-72
+activity#com.segurosamerica.nicaragua.sa.AccidentsActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:130:9-136:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:133:13-61
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:132:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:135:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:131:13-77
+activity#com.segurosamerica.nicaragua.sa.HomeActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:137:9-143:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:140:13-56
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:139:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:142:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:138:13-72
+activity#com.segurosamerica.nicaragua.DiagnosticCenterActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:144:9-150:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:148:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:147:13-69
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:146:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:149:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:145:13-81
+activity#com.segurosamerica.nicaragua.DepartmentsActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:151:9-157:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:154:13-63
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:153:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:156:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:152:13-76
+activity#com.segurosamerica.nicaragua.SpecialistsActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:158:9-164:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:162:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:161:13-63
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:160:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:163:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:159:13-76
+activity#com.segurosamerica.nicaragua.RedFunerariasActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:165:9-171:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:169:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:168:13-62
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:167:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:170:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:166:13-78
+activity#com.segurosamerica.nicaragua.SlickDevelopersActivity
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:172:9-184:20
+	android:screenOrientation
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:176:13-49
+	android:label
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:175:13-45
+	android:configChanges
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:174:13-63
+	android:theme
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:177:13-60
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:173:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:179:13-183:29
+action#android.intent.action.MAIN
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:180:17-69
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:180:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:182:17-77
+	android:name
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:182:27-74
+uses-sdk
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.0.aar/7126ee1169ba58e3771f9ae42d10cd04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/818a38c17d4e4b3c54f8214cde6a5c8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.0.aar/818a38c17d4e4b3c54f8214cde6a5c8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/e2f6e8c724a699b017fb5ae5493fdcb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/e2f6e8c724a699b017fb5ae5493fdcb4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/2cd2b561068e442254eb0dbd9ad856f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/24e193c528d7258bec82bd92f2ce4bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/24e193c528d7258bec82bd92f2ce4bfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.0.aar/3277c1f0e7eee89033c976d806b44c97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.0.aar/3277c1f0e7eee89033c976d806b44c97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/85d35c44cf4179a66e7481c3ef074d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/85d35c44cf4179a66e7481c3ef074d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/083f83eacadbcc973575946f60c96d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/083f83eacadbcc973575946f60c96d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e13a5b86028722b9c1e8bfc5089451a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e13a5b86028722b9c1e8bfc5089451a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/6b3d0588504e630b7f196816e8149fdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/6b3d0588504e630b7f196816e8149fdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/1b0086887deee75be743f170bfeed56c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/1b0086887deee75be743f170bfeed56c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.0.aar/bf69b2955cd9984b8e8c964c0101238d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.0.aar/bf69b2955cd9984b8e8c964c0101238d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d77bf47d4d36d5e93fab76b4206aef42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d77bf47d4d36d5e93fab76b4206aef42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/38782e2a0231a96acd5c84c2a9e3ddbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/38782e2a0231a96acd5c84c2a9e3ddbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94fc8d4c2a963182f62e1860cdebb959/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/94fc8d4c2a963182f62e1860cdebb959/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14d7e29824195d619eed24eecb6479e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14d7e29824195d619eed24eecb6479e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fcebb1869018c23f6dab977da863bdd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/fcebb1869018c23f6dab977da863bdd3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/191427dddf64c953ebacc16f58f92651/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/191427dddf64c953ebacc16f58f92651/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14354b2c8f31b6e37fb0995b8b974dbd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/14354b2c8f31b6e37fb0995b8b974dbd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		ADDED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/luchonet/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/4145ac3636135a78ddf1d59725119ebb/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/AndroidManifest.xml:1:1-188:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

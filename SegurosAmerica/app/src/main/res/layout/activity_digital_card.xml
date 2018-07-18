@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/barDigitalCard"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_default"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageViewDigitalCardBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_default"
+            android:src="@drawable/navigation_previous_item" />
+
+        <TextView
+            style="@style/TextViewTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="0.86"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/title_activity_digital_card" />
+
+        <ImageButton
+            android:id="@+id/imageViewDigitalCardAdd"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:background="@drawable/bar_default"
+            android:src="@drawable/content_new" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/barDigitalCard" >
+
+        <LinearLayout
+            android:id="@+id/linearLayoutDigitalCardLoader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+            
+            <TextView
+                android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/digital_card_message"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:padding="10dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

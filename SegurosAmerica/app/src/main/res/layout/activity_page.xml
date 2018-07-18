@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/barPage"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_silver"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButtonPageBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_silver"
+            android:src="@drawable/navigation_previous_item" />
+        
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_seguros_america"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:paddingRight="50dp"/>
+    </LinearLayout>
+    
+    <WebView
+        android:id="@+id/webViewPage"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayoutPageButton"
+        android:layout_below="@+id/barPage" />
+    
+    <LinearLayout
+        android:id="@+id/linearLayoutPageButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10dp" >
+
+        <Button
+            android:id="@+id/buttonPageRequest"
+            style="@style/ButtonBack"
+            android:layout_width="250dp"
+            android:layout_height="60dp"
+            android:text="@string/button_request_the_product"            
+            android:background="@drawable/button_rectangle" />
+    </LinearLayout>
+
+</RelativeLayout>

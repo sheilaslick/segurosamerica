@@ -1,0 +1,158 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/barRequest"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_silver"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButtonRequestBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_silver"
+            android:src="@drawable/navigation_previous_item" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:paddingRight="50dp"
+            android:src="@drawable/ic_seguros_america" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/barRequest" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp" >
+            
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/contact_image_height"
+                android:scaleType="center"
+                android:src="@drawable/img_picture" />
+            
+            <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/names"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextNames"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_field"
+                    android:ems="10"
+                    android:hint="@string/names"
+                    android:inputType="textCapSentences" >
+
+                    <requestFocus />
+                </EditText>
+
+                <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/surnames"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextSurnames"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_field"
+                    android:ems="10"
+                    android:hint="@string/surnames"
+                    android:inputType="textCapSentences" >
+                </EditText>
+
+                <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/phone_number"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextPhoneNumber"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_field"
+                    android:ems="10"
+                    android:hint="@string/phone_number"
+                    android:inputType="phone" >
+                </EditText>
+
+                <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/email"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextEmail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custom_field"
+                    android:ems="10"
+                    android:hint="@string/email"
+                    android:inputType="textEmailAddress" >
+                </EditText>
+
+            
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/imgViewFunerariaCarmen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignTop="@+id/buttonSendRequetTheProduct"
+                        android:layout_marginRight="4dp"
+                        android:src="@drawable/ic_grupo_pellas" />
+
+                    <Button
+                        android:id="@+id/buttonSendRequetTheProduct"
+                        style="@style/ButtonBack"
+                        android:layout_width="150dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/button_rectangle"
+                        android:layout_centerHorizontal="true"    
+                        android:text="@string/send" />
+                </RelativeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

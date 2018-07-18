@@ -1,0 +1,178 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/barDigitalCard"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_default"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageViewDigitalCardFormBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_default"
+            android:src="@drawable/navigation_previous_item" />
+
+        <TextView
+            android:id="@+id/textViewDigitalCardTitle"
+            style="@style/TextViewTitle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_weight="0.86"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/title_activity_digital_card_form" />
+
+        <ImageButton
+            android:id="@+id/imageViewDigitalCarFormSave"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right"
+            android:background="@drawable/bar_default"
+            android:src="@drawable/content_save" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/linearLayoutButtonDigitalCardForm"
+        android:layout_below="@+id/barDigitalCard" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+                <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/insured"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/editTextInsured"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/name"
+                    android:inputType="textCapSentences"
+                    android:background="@drawable/custom_field" >
+
+                    <requestFocus />
+                </EditText>
+
+                <TextView
+                    style="@style/TextViewDigitalCardCaption"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/insurance_policy_number"
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp" />
+
+                <EditText
+                    android:id="@+id/editTextPolicyNumber"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="@string/policy_number"
+                    android:inputType="textPersonName"
+                    android:background="@drawable/custom_field" >
+                </EditText>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="10dp"  >
+
+                    <LinearLayout
+                        
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".50"
+                        android:orientation="vertical"
+                        android:paddingRight="10dp" >
+
+                        <TextView
+                            style="@style/TextViewDigitalCardCaption"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/validity"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/editTextValidity"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="@string/date_format"
+                            android:inputType="textPersonName"
+                            android:background="@drawable/custom_field" >
+                        </EditText>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight=".50"
+                        android:orientation="vertical"
+                        android:paddingLeft="10dp" >
+
+                        <TextView
+                            style="@style/TextViewDigitalCardCaption"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/expires"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/editTextExpires"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:hint="@string/date_format"
+                            android:inputType="textPersonName"
+                            android:background="@drawable/custom_field" >
+                        </EditText>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutButtonDigitalCardForm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:visibility="gone"
+        android:padding="10dp" >
+
+        <Button
+            android:id="@+id/buttonDigitalCardDelete"
+            style="@style/ButtonBack"
+            android:layout_width="150dp"
+            android:layout_height="60dp"
+            android:text="@string/delete"            
+            android:background="@drawable/button_rectangle" />
+    </LinearLayout>
+
+</RelativeLayout>

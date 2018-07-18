@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:background="@drawable/background_white"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="20dp" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:contentDescription="@string/logo"
+                android:src="@drawable/logo_home" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeEmergencyAndAssistance"
+                    style="@style/ButtonLeft"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_emergencies_and_assistance" />
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeWhereIAm"
+                    style="@style/ButtonRight"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_where_i_am" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeEmergencyNumbers"
+                    style="@style/ButtonLeft"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_emergency_numbers" />
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeDigitalCard"
+                    style="@style/ButtonRight"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_digital_card" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal" >
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeInsuranceExpress"
+                    style="@style/ButtonLeft"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_insurance_home" />
+
+                <ImageButton
+                    android:id="@+id/imageButtonHomeInsuranceAmerica"
+                    style="@style/ButtonRight"
+                    android:layout_width="@dimen/ic_home_width"
+                    android:layout_height="@dimen/ic_home_width"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@android:color/transparent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/button_home_insurance_america" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="right|center_vertical"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageButtonRegistrate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/registrate" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

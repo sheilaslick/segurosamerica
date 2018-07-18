@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/luchonet/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.0.aar/6fd6078f14cc42f3d48b9f96b3d5c4e0/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,223",
+                        "endColumns": "68,68",
+                        "endOffsets": "218,287"
+                    }
+                },
+                {
+                    "source": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/src/main/res/values-sw720dp/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "1,1",
+                        "startOffsets": "18,68",
+                        "endColumns": "49,42",
+                        "endOffsets": "66,109"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,45",
+                        "endOffsets": "103,149"
+                    }
+                }
+            ]
+        }
+    ]
+}

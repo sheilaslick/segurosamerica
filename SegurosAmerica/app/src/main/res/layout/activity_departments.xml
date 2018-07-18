@@ -1,0 +1,391 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/barDepartments"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_silver"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButtonDepartmentsBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_silver"
+            android:src="@drawable/navigation_previous_item" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:paddingRight="50dp"
+            android:src="@drawable/ic_seguros_america" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/barDepartments" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/CaptionRed"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a" />
+
+            <TextView
+                style="@style/SubCaptionRed"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_b" />
+
+            <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_c" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_d" />
+
+            <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a_m" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_n" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_n_a" />
+            
+            <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_e" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_f" />
+            
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_g" />
+            
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_h" />
+            
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_o" />
+            
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_s" />
+            
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_i" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_j" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_k" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_k_a" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a_b" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_r" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_m" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_n" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_l" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_o" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_t" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_p" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_q" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_r" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_u" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_s" />
+             
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_t" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_u" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_v" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_v_a" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_v_b" />
+             
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_w" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_y" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_z" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_w" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a_a" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_c" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_p" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_r_a" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_x" />
+
+            <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_d" />
+             
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a_e" />
+             
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_f" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:text="@string/departments_a_g" />
+             
+             <TextView
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/departments_a_i" />
+             
+             <TextView
+                style="@style/CaptionItem"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:paddingBottom="10dp"
+                android:text="@string/departments_a_j" />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

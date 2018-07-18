@@ -1,0 +1,408 @@
+<resources>
+
+    <string name="app_name">Seg America</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">Logo</string>
+    <string name="back">Regresar</string>
+    <string name="title_activity_where_iam">¿Dónde estoy?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude">Latitud:</string>
+    <string name="longitud">Longitud:</string>
+    <string name="opengl_message">Tu dispositivo no soporta OpenGL 2.0.\n\n¿Deseas abrir Google Maps para Android?</string>
+    <string name="gmap">Abrir Google Maps</string>
+    <string name="my_location">Mi ubicación:</string>
+    <string name="sms_result_error_generic_failure">Falla genérica en el envío de SMS\nIntenta más tarde.</string>
+    <string name="sms_result_error_no_service">Sin servicio para enviar SMS\nLa red no esta disponible.</string>
+    <string name="sms_result_error_null_pdu">Falla PDU en el envío de SMS\nIntenta más tarde.</string>
+    <string name="sms_result_error_radio_off">Sin señal para el envío de SMS\nIntenta más tarde.</string>
+    <string name="sms_result_delivered_ok">Esperando respuesta del servidor&#8230;</string>
+    <string name="sms_result_delivered_canceled">SMS cancelado.</string>
+    <string name="sms_message">Enviando mensaje de texto&#8230;</string>
+    <string name="phone">1&#8211;800&#8211;9999</string>
+    <string name="mobile">8710&#8211;7042 </string>
+    <string name="emergency_hone">1&#8211;800&#8211;9999</string>
+    <string name="express_hone">2270&#8211;8076</string>
+    <string name="insurance_hone">1&#8211;800&#8211;9191</string>
+    <string name="title_activity_digital_card">Carné Digital</string>
+    <string name="insured">Asegurado:</string>
+    <string name="insurance_policy_number">Póliza Número:</string>
+    <string name="validity">Vigencia de:</string>
+    <string name="expires">Vence:</string>
+    <string name="date_format">DD/MM/AAAA</string>
+    <string name="name">Nombre</string>
+    <string name="policy_number">Número de Póliza:</string>
+    <string name="message_sms">Requiero asistencia en esta ubicación:</string>
+    <string name="title_activity_digital_card_form">Nuevo Carné Digital</string>
+    <string name="title_activity_digital_card_form_edit">Editar Carné Digital</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_digital_card_title">¿Desea eliminar su Carné Digital?</string>
+    <string name="delete_digital_card_message">Presiona Si para eliminar.</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="names">Nombres</string>
+    <string name="surnames">Apellidos</string>
+    <string name="phone_number">Número Telefónico</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="send">Enviar</string>
+    <string name="request_the_product">Solicitud del producto</string>
+    <string name="button_request_the_product">Solicite el Producto</string>
+    <string name="no_email_app">No cuenta con una aplicación de correo.</string>
+    <string name="title_activity_insurance_america">InsuranceAmericaActivity</string>
+    <string name="title_activity_request_the_product">RequestTheProductActivity</string>
+    <string name="email_address">ventas@segurosamerica.com.ni</string>
+    <string name="email_address_coordinates">americaasistencia@segurosamerica.com.ni</string>
+    <string name="email_subject">Solicitud de Productos vía Android</string>
+    <string name="email_subject_registros">Solicitud de Registro vía Android</string>
+    <string name="email_subject_coordinates">America asistencia</string>
+    <string name="message_coordinates" formatted="false">America Asistencia, mis coordenadas son Latitud: %s Longitud: %s</string>
+    <string name="email_message" formatted="false">Nombres: %s\nApellidos: %s\nNúmero Telefónico: %s\nCorreo Electrónico: %s</string>
+    <string name="title_activity_cars">CarsActivity</string>
+    <string name="title_activity_health">HealthActivity</string>
+    <string name="button_pro_health_golden">ProSalud Dorado</string>
+    <string name="button_pro_health_silver">ProSalud Plateado</string>
+    <string name="button_hospital_insurance">Seguro Hospitalario</string>
+    <string name="button_police">Policía</string>
+    <string name="button_firefighter">Bomberos</string>
+    <string name="button_cruz_roja">Cruz Roja</string>
+    <string name="domestic_suppliers">Proveedores Nacionales</string>
+    <string name="internationals_suppliers">Proveedores Internacionales (QHM)</string>
+
+    <string name="pharmacy">Farmacias</string>
+    <string name="button_diagnostic_centers">Centros de Diagnóstico</string>
+    <string name="number_pharmacy_five_text">Farmacia Santa Bárbara (León)</string>
+    <string name="number_pharmacy_five_text_address">Mina Limon, Contiguo Panadería Auromar, B&#186; Arlen Siu</string>
+    <string name="number_pharmacy_five">2316&#8211;1002</string>
+    <string name="number_pharmacy_four_text">Farmacia Centro Medico (Juigalpa)</string>
+    <string name="number_pharmacy_four">2512&#8211;1193</string>
+    <string name="number_pharmacy_three_text">Farmacia Bacon</string>
+    <string name="number_pharmacy_three_text_address">Barrio Central, contiguo a Bancentro</string>
+    <string name="number_pharmacy_three">2572&#8211;0605 &#47; 2572&#8211;2384</string>
+    <string name="number_pharmacy_three_text_two">Farmacia Clínica San Sebastian</string>
+    <string name="number_pharmacy_three_text_address_two">Bo. Pancasán de la escuela Monseñor Shäffer 1/2c al este.</string>
+    <string name="number_pharmacy_three_two">2572&#8211;1960, 257</string>
+    <string name="number_pharmacy_three_text_three">Farma Value</string>
+    <string name="number_pharmacy_three_text_address_three">De la panadería Morelia 1&#47;2 al sur, contiguo a Ecami Industrial</string>
+    <string name="number_pharmacy_three_three">2298&#8211;5162</string>
+    <string name="number_pharmacy_three_text_address_three_one">Del Super Mercado la Segovia 2 Cuadras al sur</string>
+    <string name="number_pharmacy_three_three_one">1&#8211;801&#8211;3276</string>
+    <string name="number_pharmacy_three_text_six">Farmacia Centro Medico Juigalpa</string>
+    <string name="number_pharmacy_three_text_address_six">Bancentro 1c al oeste</string>
+    <string name="number_pharmacy_three_six">2512&#8211;1193</string>
+    <string name="number_pharmacy_three_text_address_seven">Costado Sur de la Iglesia La Merced, contiguo a mercadito de Artesanías</string>
+    <string name="number_pharmacy_three_seven">2598&#8211;5174</string>
+    <string name="number_pharmacy_three_text_eight">Farmacias Medco - Xolotlan</string>
+    <string name="number_pharmacy_three_text_address_nine">Costado Sur Este del parque Central</string>
+    <string name="number_pharmacy_three_nine">2522&#8211;0029</string>
+    <string name="number_pharmacy_two_text">Hospital Metropolitano</string>
+    <string name="number_pharmacy_two">1&#8211;800&#8211;9595</string>
+    <string name="number_pharmacy_text">Medco y Xolotlán</string>
+    <string name="number_pharmacy">1&#8211;800&#8211;2224</string>
+
+    <string name="number_linea_directa">+13058218430</string>
+    <string name="number_collect">+18776888821</string>
+    <string name="number_police">118</string>
+    <string name="number_firefighter">115</string>
+    <string name="number_cruz_roja">128</string>
+
+    <string name="funerarias">Funerarias</string>
+    <string name="red_funerarias">Red de Funerarias</string>
+    <string name="descripcion_el_carmen">Funeraria El Carmen</string>
+    <string name="funeraria_el_carmen">Funeraria y Cementerio El Carmen\nVilla Fontana Norte, de los semáforos de ENITEL de Villa Fontana 700mts al sur. Casa # 55\n2278&#8211;5633</string>
+    <string name="descripcion_el_alba">Funeraria El Alba</string>
+    <string name="funeraria_el_alba">Funeraria El Alba\nBo. El Paraisito, calle 14 de Septiembre de la P del H 1c arriba y 1c al lago.\n2249&#8211;3584</string>
+    <string name="descripcion_la_catolica">Funeraria La Católica</string>
+    <string name="funeraria_la_catolica">Funeraria La Católica y la Auxiliadora\nFte. al RUCFA, Managua\n2248&#8211;3282</string>
+    <string name="descripcion_el_renazco">Funeraria El Reñazco</string>
+    <string name="funeraria_el_renazco">Funeraria El Reñazco\nSemáforos de la Vicky 2c abajo, 1c al lago, 30vrs abajo # 46\n2270&#8211;5205</string>
+    <string name="descripcion_monte_olivos">Funeraria Monte de los Olivos</string>
+    <string name="funeraria_monte_olivos">Funeraria Monte de los Olivos\nHotel Princess 1c este, Av. Cardenal Miguel Obando, Los Robles, Managua, Nicaragua\n2278&#8211;0217 / 2278&#8211;4205 / 8590&#8211;9832 / 1&#8211;800&#8211;FUNERAL</string>
+    <string name="descripcion_central_san_felipe">Funeraria Central San Felipe</string>
+    <string name="funeraria_central_san_felipe">Funeraria Central San Felipe\nEstelí, del Almacen Sony &#189;c al sur\n2713&#8211;2430 / 8666&#8211;5390</string>
+    <string name="descripcion_san_felipe">Funeraria Central San Felipe</string>
+
+    <string name="button_departments">Departamentos</string>
+    <string name="button_linea_directa">Linea Directa</string>
+    <string name="button_collect">Collect</string>
+    <string name="button_specialists">Especialistas</string>
+    <string name="title_activity_page">PageActivity</string>
+    <string name="title_activity_emergency_numbers">Números de Emergencias</string>
+    <string name="button_pro_cars_car">ProAuto</string>
+    <string name="button_pro_motor_vehicle_liability_insurance">Seguro Obligatorio</string>
+    <string name="button_pro_life_goes">ProVida Continua</string>
+    <string name="button_pro_family_plan">Plan Familiar</string>
+    <string name="button_pro_life_credo">Credo Vida</string>
+    <string name="button_pro_burial">Sepelio</string>
+    <string name="button_pro_insurance_debtors">Seguro para deudores</string>
+    <string name="button_accidents_individual_or_family">Individual o Familiar</string>
+    <string name="button_accidents_personal_injury_school">Personales Escolares</string>
+    <string name="button_accidents_transport_personal_accident">Personales de Transporte</string>
+    <string name="button_pro_home">ProHogar</string>
+    <string name="button_pro_home_plus">ProHogar Plus</string>
+    <string name="title_activity_life">LifeActivity</string>
+    <string name="title_activity_accidents">AccidentsActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="button_other_insurances">http://www.segurosamerica.com.ni/</string>
+    <string name="title_activity_other_insurance">OtherInsuranceActivity</string>
+    <string name="init_coor">0.00</string>
+    <string name="empty">""</string>
+    <string name="gps_dialog_title">GPS Desactivado</string>
+    <string name="gps_dialog_message">¿Desea abrir la configuración de GPS?</string>
+    <string name="title_activity_diagnostic_center">DiagnosticCenterActivity</string>
+    <string name="title_activity_departments">DepartmentsActivity</string>
+    <string name="title_activity_specialists">SpecialistsActivity</string>
+    <string name="title_activity_funerarias">RedFunerariasActivity</string>
+    <string name="digital_card_message">Presiona el icono + para agregar un Carné Digital nuevo.</string>
+    <string name="diagnostic_center_a">Centros de Diagnóstico</string>
+    <string name="diagnostic_center_b">Locales</string>
+
+    <string name="diagnostic_center_c">Hospitales</string>
+    <string name="diagnostic_center_d">Hospital Metropolitano\nKm. 9 &#190; Carretera a Masaya. 250 mts al oeste.\n2255&#8211;6900</string>
+    <string name="diagnostic_center_e">Hospital Bautista\nBarrio Largaespada, Costado sur de la RUFCA.\n2249&#8211;7070 ext 4719</string>
+    <string name="diagnostic_center_f">Hospital Salud Integral\nMontoya 1c al norte, 1c al oeste.\n2251&#8211;2030</string>
+    <string name="diagnostic_center_g">Hospital Militar "Alejandro Dávila Bolaños"\nLoma de Tiscapa.\n2264&#8211;7570</string>
+    <string name="diagnostic_center_h">Hospital Monte España\nSemaforos ENITEL Villa Fontana, 70 vrs al lago.\n2278&#8211;3920</string>
+    <string name="diagnostic_center_j_a">Hospital Cruz Azul\nDel Busto José Martí, 2c al este, 2c al norte Rpto. Largaespada\n2222&#8211;3364 / 2222&#8211;3207</string>
+
+    <string name="diagnostic_center_k">Centros de Diagnóstico</string>
+    <string name="diagnostic_center_m_a">Labtest\nColonial Los Robles, esquina opuesta Funeraria Monte de los Olivos.\n2270&#8211;9883 / 2252&#8211;4146</string>
+    <string name="diagnostic_center_m">BIOANALISIS Laboratorio Clínico\nKmt. 4&#8211;&#189; Ctra. Masaya, Contiguo a Hyundai.\n2277&#8211;1049 / 2278&#8211;6350 / 2278&#8211;6315\n\nPlaza Petropolis Km 8 &#189; carretera sur\n2265&#8211;0890\n\nLinda Vista, Costado sur Gas. Texaco El Cortijo.\n2266&#8211;1975\n\nBolonia, Policlínica Nicaragüense, de PriceMart 150 vrs. este\n2266&#8211;2670\n\nCentro Profesional Altamira, calle Principal Altamira de BDF &#189;c. sur\n2278&#8211;1023\n\nCiudad Jardín, Calle principal, Pollo Estrella 25v. oeste.\n2250&#8211;5689\n\nCentro Jean Paul Genie, contiguo a Farmacia FAMI\n2255&#8211;0550</string>
+    <string name="diagnostic_center_n">MED LAB\nBolonia, Hospital Militar &#189; c. Abajo.\n2266&#8211;3643\nBello Horizonte, Rotonda 150 Mts. Arriba.\n2266&#8211;3946</string>
+    <string name="diagnostic_center_l">Laboratorio INMACULADA CONCEPCION\nPlaza de Compras El Edén, Fte. al Puente El Edén, frente al puente, 10a Calle Sureste.\n2249&#8211;2275 / 2249&#8211;0945\nCentro Comercial Linda Vista, mód. E&#8211;7 / E&#8211;9.\n2266&#8211;9826 / 2268&#8211;6069 / 2268&#8211;6070\n</string>
+    <string name="diagnostic_center_o">Centro de Diagnostico por Imagenes Linda Vista\nCentro Comercial Linda Vista, detras de Tip Top, Mod. C3.\n2264&#8211;3079</string>
+    <string name="diagnostic_center_o_a">CIPRO\nRotonda El Güegüense 2c oeste &#189;c al sur.\n2266&#8211;3542 / 2254&#8211;4956 / 2266&#8211;6887</string>
+    <string name="diagnostic_center_z_d">Centro de Fertilidad de Nicaragua, S.A.\nKm 9 &#189; Carretera a Masaya, costado sur del Hospital Metropolitano.\n2293&#8211;6519 / 8988&#8211;5435 / 8884&#8211;0950</string>
+    <string name="diagnostic_center_z_d_a">Centro de Imágenes X-Ray Medical Center\nCol. Los Robles, del CSE 1c al este, 1c al sur Casa # 8, Managua.\n2277&#8211;1147</string>
+
+    <string name="diagnostic_center_p">Clínicas</string>
+    <string name="diagnostic_center_z_i">Clínica Crianza Infantil Integral, S.A\nColinial Los Robles, frente al portón norte del parque Japonés, casa # 200.\n2277&#8211;4534</string>
+    <string name="diagnostic_center_z_j">NICARAGUAN MEDICAL CENTER – NIMEC\nResidencial Los Robles, del Hotel Colón 1c al sur media al oeste.\n2293&#8211;7033</string>
+    <string name="diagnostic_center_z_j_a">Jireh Dental Care\nPlaza San Agustin módulo #2\n2278&#8211;2019 / 8953&#8211;2509</string>
+    <string name="diagnostic_center_z_j_b">S.O.S. Medical "Clinica Medica Laboral"\n(Chequeos Médicos Ejecutivos) Bolonia, Del canal 2, 1 &#8211; cuadra al lago, contiguo a impresiones sol.\n2254&#8211;5355 / 8761&#8211;1207</string>
+    <string name="diagnostic_center_q">Clinica Valle: Oftalmología y Especialidades\nAltamira D’este #49, Avenida Principal esquina opuesta a Banpro.\n2277&#8322;1123\n2278&#8211;9208</string>
+    <string name="diagnostic_center_r">Clínica Angeles\nDel Club Terraza 2c al lago y 1c arriba\n2277&#8211;1069</string>
+    <string name="diagnostic_center_s">Clinica de Fisiatría Marquette\n1ra Entrada Las Colinas, 5 c arriba 20 vrs al sur.\n2276&#8211;1669</string>
+    <string name="diagnostic_center_z_g">Centro Médico de Rehabilitación San Rafael\nLas Colinas segunda entrada del triángulo 1 &#189; c al norte, frente donde fue la Embajada de Colombia.\n2276&#8211;0621 / 8612&#8211;2467</string>
+    <string name="diagnostic_center_u">CIM (Centro de Imágenes)\nOfiplaza El Retiro, Edificio # 7, suite 711, 1er. Piso.\n2270&#8211;6715</string>
+    <string name="diagnostic_center_v">Especialidades Dentales Dr.´s Gonzalez\nColonial Los Robles VII Etapa # 84.\n2278&#8211;4452</string>
+    <string name="diagnostic_center_w">Traumacentro\nDel Hospital Militar 150 mts abajo, esquina opuesta a Los Pipitos.\n2266&#8211;1261 / 2266&#8211;1262 / 2266&#8211;1263 Ext.230\n8883&#8211;6749</string>
+    <string name="diagnostic_center_w_a">Medico Concept Center, S.A.\nAltamira d-este, casa #423, SINSA Proyecto &#189;c abajo 20 mts al sur\n2278&#8211;6305 / 2267&#8211;0492 / 2278&#8211;6227</string>
+    <string name="diagnostic_center_z_h">Clínica del Dolor\nHospital Metropolitano.\n2254&#8211;6900 Ext. 8&#8211;4236</string>
+    <string name="diagnostic_center_z_h_a">Clínica de Rehabilitación Integral TONATIUH\nColonia Centro América del triangulo 1c al este, 5 andenes al sur, Mano derecha 75 vrs al oeste casa # E-350.\n2278&#8211;4305 / 8159&#8211;0277</string>
+    <string name="diagnostic_center_z_h_b">Clinica de Fisiatría y Rehabilitación Médico Concept Center, MCC\nAltamira D-Este, Casa 423, Sinsa Proyecto (Comtech) &#189;c. Oeste 20mts. al Sur\n2278&#8211;6227 / 2267&#8211;0492 / 8588&#8211;3757 / 8184&#8211;5087</string>
+    <string name="diagnostic_center_z_h_c">Clinica de Columna y Ortopedia Ortho Spine Center\nSemáforos de Plaza El Sol 1c al sur 1c abajo Los Robles\n2277&#8211;1589 / 2252&#8211;4048</string>
+    <string name="diagnostic_center_z_h_d">Centro Especializado de Ortopedia y Traumatología - CESORTRA, SA\nDel Hospital Militar 150 mts abajo, esquina opuesta a Los Pipitos\n2265&#8211;1261 al 63 Ext. 230 / 8883&#8211;6749</string>
+    <string name="diagnostic_center_z_h_e">Clínica Integral Ticuantepe\nKm. 18.5 carretera a la Concha, Ticuantepe, de los semáforos 20 vrs al oeste\n2279&#8211;9776</string>
+    <string name="diagnostic_center_z_h_f">Clínica Anti Stress SHIATSU &amp; FISIOTERAPIA\nReparto San Juan # 629, del Hotel Seminole 1c abajo 1c al norte\n2278&#8211;1742</string>
+
+    <string name="diagnostic_center_x">Distribuidores de Prótesis</string>
+    <string name="diagnostic_center_y">IMPORTOSA (ortopedico)\nAltamira, Vicky 1.5 abajo fte. San Augustín.\n2270&#8211;9553, 2270&#8211;9568</string>
+    <string name="diagnostic_center_z">ORTO-TRAUMA, S.A.\nAltamira, de la Iglesia San Agustín &#189;c abajo.\n2278&#8211;8700</string>
+    <string name="diagnostic_center_z_l">IMPLORNIC\nSemáforos Enel Central 300 mts al Norte, Plaza Bolívar, módulo # 12\n2278&#8211;2476 / 2278&#8211;2476</string>
+    <string name="diagnostic_center_z_a">Jireh Dental Care\nPlaza San Agustin módulo #2, Managua.\n2278&#8211;2019 / 8953&#8211;2509</string>
+    <string name="diagnostic_center_z_b">Medico Concept Center, S.A.\nAltamira d-este, casa #423, SINSA Proyecto &#189;c . abajo 20 mts al sur\n2278&#8211;6305 / 2267&#8211;0492 / 2278&#8211;6227</string>
+
+    <string name="departments_a">Departamentos</string>
+    <string name="departments_b">Locales</string>
+
+    <string name="departments_c">Boaco</string>
+    <string name="departments_d">ProFamilia Boaco\nAve. Modesto Duarte en calle principal de Boaco Bajo.\n2542&#8211;2492</string>
+
+    <string name="departments_e">Chinandega</string>
+    <string name="departments_f">Amocsa (Asistencia Médica de Occidente)\nFerretería SINSA 2&#189; c. al Norte.\nChinandega\n2340&#8211;1852\n2340&#8211;1853\n2340&#8211;1854\n\nFrente al quiosko parque Central\nCorinto\n2342&#8211;2835\n\nTelcor 1/2c Sur\nChichigalpa\n2343&#8211;2608</string>
+    <string name="departments_g">Hospital Ingenio San Antonio\nIngenio San Antonio, Chichigalpa\n2342&#8211;9120</string>
+    <string name="departments_h">ProFamilia Chinandega\nHotel Glomar &#189; c. abajo\n2341&#8211;2824</string>
+    <string name="departments_a_o">Laboratorios San Angel\n2341&#8211;8712 / 2341&#8211;0207\nEsquina de los Bancos &#189; al Sur.</string>
+    <string name="departments_a_s">Laboratorio Clínico Altamirano\nGasolinera UNO Guadalupe 3c al sur 10 vrs al este.\n2340&#8211;4207 / 2340&#8211;2361 / 2310&#8211;3718</string>
+
+    <string name="departments_i">Estelí</string>
+    <string name="departments_j">ProFamilia Estelí\nEstelí &#8211; Ctra. Panamericana, entrada a la Chacara\n2713&#8211;7799</string>
+    <string name="departments_k">Hospital Adventista de Nicaragua\nFrente al antiguo Hospital Alejandra Davila Bolaños (Calle Central de Esteli)\n2713&#8211;3827</string>
+    <string name="departments_k_a">SERMESA - Policlínica Estelí\nKM 143 Carretera Estelí, Contiguo a Cotran sur.\n2713&#8211;6632</string>
+
+    <string name="departments_a_b">Granada</string>
+    <string name="departments_a_r">SERMESA\nKm 45 &#189; carretera Masaya&#8211;Granada\n2552&#8211;2907 / 2552&#8211;4092</string>
+
+    <string name="departments_m">Jinotega</string>
+    <string name="departments_n">ProFamilia Jinotega\nGasolinera TEXACO &#189;c. al Oeste\n2782&#8211;6750\n2782&#8211;2132</string>
+
+    <string name="departments_l">Jinotepe</string>
+    <string name="departments_o">Hosp. &#34;Antonio Román Matus&#34; In Memoriam\nKm. 48 &#189; Ctra. Sur, Jinotepe, Carazo\n2532&#8211;5160</string>
+    <string name="departments_a_t">SERMESA\nBancentro 6c al sur, Bo. San Rafael\n2532&#8211;0458 / 2532&#8211;3677</string>
+
+    <string name="departments_p">Juigalpa</string>
+    <string name="departments_q">Centro Médico Juigalpa (CEMEQSA)\nBANCENTRO 1c. al Oeste.\n2512&#8211;1817</string>
+    <string name="departments_r">ProFamilia Juigalpa\nDel Zoológico 1c. al Oeste\n2512&#8211;2918</string>
+    <string name="departments_a_u">Farmacia Centro Medico Juigalpa\nBancentro, 1c. Al oeste\n2512&#8211;1193</string>
+
+    <string name="departments_s">León</string>
+    <string name="departments_t">AMOCSA\nEsquina de Los Bancos 175 vrs al este\n2311&#8211;1014</string>
+    <string name="departments_u">SERMESA La Fraternidad\nPolicía Nacional 100 mts al Sur \n2311&#8211;2700\n2311&#8211;5294</string>
+    <string name="departments_v">Filial San Jose\nIglesia San Jose 1c al Norte 25 vrs arriba\n2311&#8211;5204</string>
+    <string name="departments_v_a">Laboratorio Galo\nCostado Este del Parque La Merced, 2 &#189; c. al Norte\n2311&#8211;3626 / 2311&#8211;0845</string>
+    <string name="departments_v_b">Clinica Oftalmológica Valdivia\nMarroquín Costado Noroeste Parque San Juan 75 vrs al norte.\n2315&#8211;2155</string>
+
+    <string name="departments_a_b_c">Managua</string>
+
+    <string name="departments_w">Masaya</string>
+    <string name="departments_y">ProFamilia Masaya\nFrente a Entrada de El Coyotepe.\n2522&#8211;4777</string>
+    <string name="departments_z">Clinica Sta. Gema\nDe las oficinas centrales del BAC &#189; c al este &#189; c al norte.\n2522&#8211;0052</string>
+    <string name="departments_a_w">SERMESA\nReparto Los Chilamates km 28 &#189; ctra a Granada.\n2522&#8211;4033 / 2522&#8211;1069</string>
+
+    <string name="departments_a_a">Matagalpa</string>
+    <string name="departments_a_c">ProFamilia Matagalpa\nCostado Este Colegio Santa Teresita.\n2772&#8211;3463</string>
+    <string name="departments_a_d">Profamilia Río Blanco\nPolicía 3c. al Sur, 1c. al Este, donde fue el Babana.\n2778&#8211;0244</string>
+    <string name="departments_a_p">Clínica Santa Fe\nMatagalpa, Semáforos de Salomón López 2c &#189; al Este.\n2772&#8211;5113</string>
+    <string name="departments_a_r_a">Clínica Santa Fe Sucursal Río Blanco\nDe la Alcaldía 2 cuadras al este.\n2778&#8211;0439</string>
+    <string name="departments_a_x">Clínica Santa Fe - Sébaco\nSébaco, contiguo a Comunidad Indígena\n2775&#8211;3769</string>
+
+    <string name="departments_a_e">Ocotal</string>
+    <string name="departments_a_f">ProFamilia Ocotal\nCalle Central, Instituto Nac. Segovia 1 &#189; c al Sur\n2732&#8211;2983</string>
+    <string name="departments_a_g">ProFamilia Somoto\nHotel Bambú 1c. al Sur.\n2722&#8211;2753</string>
+
+    <string name="departments_a_i">Rivas</string>
+    <string name="departments_a_j">ProFamilia Rivas\nGasolinera PUMA, San Jorge 200 mts al norte\n2563&#8211;4120</string>
+
+    <string name="departments_a_m">Bluefields</string>
+    <string name="departments_a_n">Clínica Harold Bacon\nBarrio Central Contiguo a Bancentro.\n2572&#8211;2384</string>
+    <string name="departments_a_n_a">Clínica San Sebastian\nBo. Pancasan, de la escuela Monseñor Shäffer &#189;c al este.\n2572&#8211;1960, 257</string>
+
+    <string name="specialists_a">Especialistas Médicos</string>
+    <string name="specialists_b">Nombre del Médico</string>
+    <string name="specialists_a_b_a">Anestesiología</string>
+    <string name="specialists_a_b_b">Dr. Javier Bravo Villalobos\nAnestesiólogo, Subespecialidad en Manejo del Dolor\nClínica Hospital Metropolitano\n2255&#8211;6900 Ext. 8&#8211;4236</string>
+
+    <string name="specialists_a_b_c">Cardiología</string>
+    <string name="specialists_a_b_d">Dr. Joel Mauricio Caballero\nCardiología\nCentro Regional de Especialidades Médicas, Matagalpa.\n2772&#8211;5677 / 8368&#8211;3101 / 7610&#8211;4094</string>
+
+    <string name="specialists_c">Cirujanos</string>
+    <string name="specialists_o_b">Dr. Gilberto Martínez Martínez\nEspecialista en Cirugía de cuello\nClínica Plaza España\n2277&#8211;2565 / 8810&#8211;3188</string>
+    <string name="specialists_o_c">Dr. Norman Javier Narváez\nEspecialista en Cirugía General y Laparoscopía, Sub especialista en Coloproctología\nClinica Báez Amador: Calle Principal Altamira, del Hospital Central, 2.5 C. al lago\n8275&#8211;3831 / 2252&#8211;6003</string>
+    <string name="specialists_d">Dr. Mauricio Javier Oviedo Moreira\nLaparoscópica y Digestiva, Endoscopia Digestiva, Gastroenterología\nClinimax II, León.\n8739&#8211;9680 / 2311&#8211;0364</string>
+    <string name="specialists_e">Dr. Bismarck Castillo Lugo\nEspecialista en Cirugía General y Laparoscopía Especialista en Edndoscopía Gastrointestinal\nClínica de Alta Especialidad\n2266&#8211;6657 / 8908&#8211;9527</string>
+    <string name="specialists_f">Dra. Thelenia Mendieta López\nEspecialista en Cirugía General Sub especialista en Laparoscopia avanzada y Cirugía Obesidad Motilidad Gastrointestinal\nHospital Bautista, Clínica de Trastorno Digestivo y Cirugía Obesidad\n2264&#8211;9020 ext 94210</string>
+    <string name="specialists_h">Dr. Sergio Midence\nCirujano General y Laparoscópico\nClinimax II, León.\n2311&#8211;0364 / 8850&#8211;9093</string>
+    <string name="specialists_i">Dr. Carlos Humberto Salinas\nCirujano Laparoscópico\nHospital Bautista\n8601&#8211;5392</string>
+    <string name="specialists_l">Dr. Luis Molina Lugo\nCirujano General y Laparoscópico subespecilidad en Coloproctología\nHospital Metropolitano\n2255&#8211;6900 ext 4310</string>
+    <string name="specialists_n">Dr. William Abdalah\nCirujano General y Laparoscópico\nHospital Metropolitano\n2255&#8211;6900 ext 4301</string>
+    <string name="specialists_o">Dr. Ernesto José Artola\nCirujano General y Laparoscópico\nClínica Catalina, Matagalpa\n8850&#8211;8382</string>
+    <string name="specialists_o_d">Dr. Milton J. Mairena Álvarez\nCirujano General y Laparoscópica\nHospital Metropolitano, Instituto Medico Bolonia\n8853&#8211;4818 / 2255&#8211;6900 Ext. 4349 / 2268&#8211;3038 / 2268&#8211;3109</string>
+    <string name="specialists_o_d_a">Dr. Milton A. Mairena Valle\nCirugía General y Laparoscópica, Endoscopía Gastrointestinal Avanzada\nHospital Metropolitano, Hospital SUMEDICO\n8854&#8211;2433 / 8985&#8211;9092</string>
+    <string name="specialists_o_e">Dr. Adolfo Rivas Cajina\nCirugía General y Coloproctología\nClínica Palermo, Clínica Tabar, Cardiocentro&#8211;Estelí, Clínica de Especialidades Baez&#8211;Amador.\n2270&#8211;8421 / 2250&#8211;7013 / 2270&#8211;8421 / 2252&#8211;6003</string>
+    <string name="specialists_o_a">Dr. Carlos Alberto Saborio\nCirujano General y Laparoscópico.\nClínica Vida Saludable\n2270&#8211;6348 / 2277&#8211;1408</string>
+    <string name="specialists_g">Dr. Mario Blanco Chavarría\nCirujano General y Laparoscópico\nClínica Báez &#8211; Amador\n8254&#8211;6428 / 8445&#8211;6834</string>
+    <string name="specialists_g_a">Dra. Edith Mata Icabalceta\nCirujano General y Laparoscópico\nClínica San Juan\n2270&#8211;6585 / 2264&#8211;9020</string>
+    <string name="specialists_g_b">Dr. Alfredo Celedón Lacayo\nCirugía General\nHospital Metropolitano Vivian Pellas\n2255&#8211;6900 Ext. 84315</string>
+
+    <string name="specialists_p">Pediatras</string>
+    <string name="specialists_u_a">Dr. Oscar Berrios Aguilar\nNeumólogo Pediatra\nCentro de alergias, contiguo a Sinsa cerámica Altamira\n2277&#8211;2478, 8663&#8211;9396, 8898&#8211;4563</string>
+    <string name="specialists_q">Dra. Veronica del Carmen Fuentes Rocha\nNeumóloga-Pediatra\nClínica Esparza\n2277&#8211;0209, 8994&#8211;9809</string>
+    <string name="specialists_r">Dr. Alfredo Zelaya\nCirujano Pediatra y Laparoscópico\nConsultorio Privado\n8881&#8211;1888</string>
+    <string name="specialists_s">Dr. Fabian Cruz Estrada\nEspecialista en Cirugia Pediátrica\nConsultorio Privado\n8624&#8211;5517</string>
+    <string name="specialists_t">Dra. Maira Barahona\nCirujano Pediatra y Laparoscópico\nHospital Metropolitano\n2255&#8211;6900 ext 4103</string>
+    <string name="specialists_u">Dra. Violeta Alemán\nCirujano Pediatra subespecialista &#8211; Oncologica\nConsultorio Privado\n2289&#8211;4027, 8853&#8211;3707</string>
+    <string name="specialists_u_b">Dr. Marlosn J. Medrano\nPediatra Neurólogo\nCentro Médico San José, León\2311&#8211;3039 / 5727&#8211;7195 / 7838&#8211;2489</string>
+    <string name="specialists_u_c">Dra. Maria Victoria Báez\nPediatra, Neonatólogo\nClínica Integral Ticuantepe, Hospital Metropolitano, Salud Integral, Bautista, Central Managua\n2279&#8211;9776 / 8210&#8211;9085 / 8887&#8211;0161</string>
+
+    <string name="specialists_v">Cirujanos Dentistas</string>
+    <string name="specialists_w">Dr. Allan Porras Chávez\nCirujano Dentista especialidad en Maxilofacial\nProactive Dental Solutions: Reparto San Juan, del Gimnasio Hércules 1 Cuadra Norte, 25 vrs Oeste.\n2270&#8211;6580 / 8996&#8211;8224</string>
+    <string name="specialists_w_a">Dr. Gilberto Martinez Acosta\nCirujano Maxilo Facial\nClínica Doctores Martínez Hospital Metropolitano Vivian Pellas\n2276&#8211;0862 / 8882&#8211;1674</string>
+    <string name="specialists_v_b">Dra. Verónica Melgara Rodríguez\nCirugía Maxilofacial\nEstelí, Clínica Guadalupe, INISER 2 &#189;c al este.\n8442&#8211;9231</string>
+    <string name="specialists_v_d">Dra. Patricia Castaneda Aguirre\nCirujano Dentista\nClínica de Alergías\n8456&#8211;1165 / 8930&#8211;9701</string>
+    <string name="specialists_v_c">Dra. María Lisseth Vilanova Castaneda\nCirugía Dentista\nClínica Vida Saludable, costado sur Metrocentro, del antiguo Chamán &#189;c al sur.\n2277&#8211;1408 / 2270&#8211;6348</string>
+    <string name="specialists_v_c_a">Dr. Gilberto Martinez González\nCirujano Maxilofacial\nHospital Metropolitano Vivian Pellas\n2265&#8211;1770 / 8882&#8211;1675</string>
+    <string name="specialists_v_e">Dr. Luis Eduardo Rodríguez\nOdontólogo\nClínica Familiar Ticuantepe\n2276&#8211;7035 / 8883&#8211;1698</string>
+
+    <string name="specialists_x">Cirujía Plástica y Reconstrucción</string>
+    <string name="specialists_x_a">Dra. Xochilt Silva Vargas\nEspecialista en Cirugía Plástica y Reconstructiva\nInstituto Médico de Especialidades\n2278&#8211;4566 / 8826&#8211;2393</string>
+    <string name="specialists_x_b">Dra. Alicia Salazar Alvarez\nEspecialista en Cirugía Plástica y Reconstructiva &#8211; Cirugía General\nHospital Metropolitano\n2255&#8211;6900</string>
+
+    <string name="specialists_x_a_a">Dermatología</string>
+    <string name="specialists_x_a_b">Dra. Alina Gómez Cuevas\nDermatólogo\nHospital Metropolitano consultorio # 204\n2255&#8211;6900 / 8851&#8211;8590</string>
+    <string name="specialists_x_a_c">Dra. Rosa Carolina Wilson\nDermatólogo\nClínica Lapelle\n2267&#8211;1620 / 8996&#8211;0894</string>
+
+    <string name="specialists_z">Gastroenterologo</string>
+    <string name="specialists_a_a">Dr. Marvin Lopez Guatemala\nGastroenterologo Endoscopista\nCentro Especialidades Médicas Montoya\n2254&#8211;5130 / 2254&#8211;5137 / 2222&#8211;6670 / 8854&#8211;1303</string>
+    <string name="specialists_a_c_a">Dra. Mariel Mejía Rivas\nGastroenterologo Endoscopista\nHospital Metropolitano\n2255&#8211;6900 / 8851&#8211;8590</string>
+
+    <string name="specialists_a_b">Ginecología y Obstetricia</string>
+    <string name="specialists_a_b_g">Dr. Juan Jose Lugo\nEspecialista en Ginecología y Obstetricia\nCentro de Fertilidad de Nicaragua /\nHospital Metropolitano\n2293&#8211;6519 / 8883&#8211;1009</string>
+    <string name="specialists_a_a_a">Dr. Vernon Halleslevens Castillo\nEspecialista en Ginecología y Obstetricia\nCentro de Fertilidad de Nicaragua /\nHospital Metropolitano\n2294&#8211;6519 / 8884&#8211;0950</string>
+    <string name="specialists_a_b_l">Dr. Carlos Salgado\nGinecología, Obstetricia y Fertilidad\nCentro de Fertilidad y Ginecología de Nicaragua\n2294&#8211;6519 / 2293&#8211;6518 Ext. 2</string>
+    <string name="specialists_a_b_h">Dra. Adriana Castrillo\nGinecología, Obstetricia,Reproducción\nCentro de Fertilidad de Nicaragua\nInstituto Medico Bolonia\n2293&#8211;6519 / 2268&#8211;3020 / 8576&#8211;4048</string>
+    <string name="specialists_a_a_b">Dra. Patricia Carolina Pérez González\nEspecialista en Ginecología y Obstetricia\nConsultorio Privado\n2250&#8211;9938 / 8664&#8211;6661</string>
+    <string name="specialists_a_c">Dra. Rosa Castellon\nEspecialista en Ginecología y Obstetricia\nSub-especialidad en Embarazo de alto riesgo y Cirugía Laparoscópica Ginecológica\nVilla Fontana: Del Club Terraza, 4 C. al oeste, 25 vrs. Al sur\n2293&#8211;9397, 8244&#8211;3637</string>
+    <string name="specialists_a_d">Dra. Carolina Amoretty Huerta\nEspecialista en Ginecología y Oncología\nClínica Báez.\n2250&#8211;3932, 8380&#8211;6685</string>
+    <string name="specialists_a_e">Dra. Veronica Delgadillo\nEspecialista en Ginecología y Obstetricia\nAMOCSA, León\n8856&#8211;7087</string>
+    <string name="specialists_a_f">Dra. Carmen Toruño\nEspecialista en Ginecología y Obstetricia\nHospital Bautista, Clínica López Galo\n2264&#8211;9020, ext. 4319, 2278&#8211;0054, 2278&#8211;0657, 8883&#8211;5199</string>
+    <string name="specialists_a_g">Dra. Doritilla Sequeira Carrión\nEspecialista en Ginecología y Obstetricia\nHospital Salud Integral\n2251&#8211;2030, 8883&#8211;3913</string>
+    <string name="specialists_a_h">Dra. Martha Montenegro Larios\nEspecialista en Ginecologia - Obstetricia e Infertilidad\nHospital Metropolitano\n2255&#8211;6900 ext 4237</string>
+    <string name="specialists_a_i">Dra. Maria Delma Mejía Algaba\nEspecialista en Ginecología y Oncología\nHospital Metropolitano\n2255&#8211;6900 ext 4237, 8887&#8211;0824</string>
+    <string name="specialists_a_j">Dra. Michelle Herrera Vázquez\nEspecialista en Ginecologia - Obstetricia y Fertilidad\nConsultorio Privado\n2248&#8211;3609, 2252&#8211;4805, 8845&#8211;0333</string>
+    <string name="specialists_a_b_i">Dr. Germán J. Fernández\nGinecología, Obstetricia y Fertilidad\nClínica Santa Teresita\n2278&#8211;7889 / 8670&#8211;1332</string>
+    <string name="specialists_a_b_k">Dra. Alba Sánchez Garache\nGinecología y Obstetricia\nClínica San Juan\n2278&#8211;9536 / 8883&#8211;3901</string>
+    <string name="specialists_a_b_j">Dr. Carlos Salgado\nGinecología, Obstetricia y Fertilidad\nCentro de Fertilidad y Ginecología de Nicaragua\n2293&#8211;6517 / 2293&#8211;6518 Ext. 2</string>
+    <string name="specialists_a_b_m">Dr. Javier Enrique Oviedo\nGinecología y Obstetricia\nConsultorio Médico Jehová Rafa, Clínica AMOCSA-León\n2315&#8211;4360 / 8492&#8211;8579 / 2311&#8211;1013</string>
+    <string name="specialists_a_b_n">Dra. Carolina Brenes\nGinecología y Obstetricia\nConsultorio Privado\n2252&#8211;5759</string>
+    <string name="specialists_a_b_o">Dra. Silvia Elena Quintana\nGinecología y Obstetricia\nHospital Salud Integral / Consultorio Privado\n2251&#8211;2030 Ext. 123 / 8470&#8211;5315</string>
+    <string name="specialists_a_b_p">Dr. Carlos Alberto Largaespada Díaz\nGinecología y Obstetricia\nHospital Central / Consultorio Privado\n2253&#8211;4390 / 8948&#8211;6304 / 8852&#8211;1080</string>
+    <string name="specialists_a_b_q">Dra. Vilma Noelia Martínez\nGinecología y Obstetricia\nHospital Salud Integral / Consultorio Privado\n2251&#8211;2030 Ext. 123, 223 / 8393&#8211;7375</string>
+    <string name="specialists_a_b_r">Dr. José Alberto Delgado\nGinecología y Obstetricia\nConsultorio Privado CENICREA\n2270&#8211;1266/ 8886&#8211;3107</string>
+    <string name="specialists_a_b_s">Dr. Pablo Emilio Mongalo\nGinecología y Obstetricia\nClínica 4 Generaciones\n2276&#8211;0119/ 8575&#8211;4849</string>
+    <string name="specialists_a_b_t">Dra. Arlen Soto López\nGinecología y Obstetricia\nHospital Salud Integral / Consultorio Privado\n8920&#8211;7080/ 8379&#8211;5782</string>
+    <string name="specialists_a_b_u">Dra. Yamileth Moreno\nGinecología y Obstetricia\nConsultorio Privado\n8372&#8211;8717/ 2252&#8211;4805</string>
+
+    <string name="specialists_a_a_c">Medicina Física y Rehabilitación</string>
+    <string name="specialists_a_a_c_a">Dra. Esperanza Villareal Cortez\nEspecialista en Medicina Física y Rehabilitación\nCentro Médico de Rehabilitación San Rafael\n2276&#8211;0621 / 8852&#8211;1772</string>
+    <string name="specialists_a_a_c_b">Dra. Zurama Lorenzo Parra\nMédico Especialista en Medicina Física y Rehabilitación\nCentro Médico de Rehabilitación Integral TONATIUH\n7551&#8211;4377</string>
+    <string name="specialists_a_a_c_c">Lic. Jazmina Jiménez\nFisioterapeuta\nConsultorio Privado\n2266&#8211;4947 / 8926&#8211;8645</string>
+
+    <string name="specialists_a_a_e">Médicos Internistas</string>
+    <string name="specialists_a_a_e_a">Dra. Iset Medina Hernández\nEspecialidad Medicina Interna\nClínimax II, León\n2311&#8211;5815 / 8435&#8211;8023</string>
+    <string name="specialists_a_a_e_b">Dr. Enrique López Arbizú\nEspecialidad Medicina Interna\nHospital SERMESA Masaya\n5839&#8211;3826</string>
+    <string name="specialists_a_a_e_c">Dra. Bertha Ma. Barrantes Reyes\nMedicina Interna y Reumatología\nClínica CLER\n7850&#8211;4354</string>
+    <string name="specialists_a_a_e_d">Dr. Julio César Hernández Mejía\nMedicina Interna, Neurología Clínica y Epilepsia\nHospital Bautista\n2264&#8211;9020 Ext. 4005, 4300</string>
+
+
+    <string name="specialists_a_k">Neurocirugía</string>
+    <string name="specialists_a_l">Dr. Jorge Muñoz Castillo\nEspecialista en Cirugía Neurológica\nEspecialidades Médicas Montoya\n2254&#8211;5130</string>
+
+    <string name="specialists_a_m">Oftalmólogos</string>
+    <string name="specialists_a_n">Dra. Gloria Gaitán Gutiérrez\nOftalmología con especilidad en órbita, párpados y vía lagrimal\nInstituto Médico Especializado\n2278&#8211;4566\n8888&#8211;4144</string>
+    <string name="specialists_a_o">Dr. Diego Valle González\nOftalmología con especilidad en glaucoma\nClínica Valle, Oftalmología y Especialidades\n2277&#8211;1123</string>
+    <string name="specialists_a_q">Dr. Yuri Arróliga Rodríguez\nOftalmología con especialidad en cirugía del Segmento Anterior y Refractaria\nCentro Oftalmológico Altamira\n2278&#8211;2736</string>
+
+    <string name="specialists_a_r">Ortopedia y Traumatologia</string>
+    <string name="specialists_a_s">Dr. Hazel Barquero Ramos\nOrtopedia y Traumatología, especialidad en Columna\nHospital Metropolitano\n8883&#8211;5329</string>
+    <string name="specialists_a_t">Dr. Ernesto Ruíz Calero\nOrtopedia y Traumatología con especialidad en Cirugía de mano\nClínica Familiar\n2266&#8211;6610</string>
+    <string name="specialists_a_u">Dra. Claudia Gaitan\nOrtopedia y Traumatologìa especialidad en artroscopia de rodilla\nInstituto Médico Especializado\n8954&#8211;2952</string>
+    <string name="specialists_a_v">Dr. Dino Aguilar\nOrtopedia y Traumatología\nHospital Metropolitano\n2255&#8211;6900 ext 84306</string>
+    <string name="specialists_a_w">Dr. Jhaxel García\nOrtopedia y Traumatología especialidad en Columna\nCentro Médico de Alta Especialidad Ángeles\n2277&#8211;1589 / 2252&#8211;4048 / 8852&#8211;0809</string>
+    <string name="specialists_a_x">Dr. Mario Sequeira Somoza\nPediatra Ortopedista\nClínica Altamira\n2277&#8211;5382, 8882&#8211;4320</string>
+    <string name="specialists_a_y">Dr. Ramiro Granera\nOrtopedia y Traumatologìa con especialidad en terapia anodyne\nHospital Vélez Paiz\n2269&#8211;3355, 8658&#8211;1182, 8898&#8211;3098</string>
+    <string name="specialists_a_r_a">Dr. Lenin Velázquez\nCirugía Ortopédica y Traumatología\nClínica Especialidades Báez-Amador\n2252&#8211;6003 / 8425&#8211;9491</string>
+    <string name="specialists_a_r_b">Dr. Silvio A. Jiménez Meneses\nCirugía Ortopédica y Traumatología/Oncología\nHospital Metropolitano Vivian Pellas\n2255&#8211;6900 Ext. 8&#8211;7141 / 8477&#8211;7086</string>
+    <string name="specialists_a_r_c">Dr. Blanca Rosa Ulmos\nCirugía Ortopédica y Traumatología\nHospital Metropolitano\n8895&#8211;6753</string>
+    <string name="specialists_a_r_d">Dr. Omar Scotto Halleslevens\nOrtopedia y Traumatología\nCirugía de Reemplazo Articular\nHospital SUMEDICO Clínica ProSalud\n2254&#8211;5408 / 8755&#8211;1807</string>
+    <string name="specialists_a_r_f">Dra. Tatiana Terán\nOrtopedia\nMano y Miembro Superior Microcirugía Reconstructiva\nClínica de Especialidades Los Robles\nHosp. Salud Integral/Hosp. Metropolitano\n2299&#8211;3875 / 8324&#8211;4860</string>
+    <string name="specialists_a_r_g">Dr. Luis Gutierrez Quant\nCirugía Ortopédica y Traumatología\nHospital Vivian Pellas\nClínica Médica Gutiérrez Quant\n2255&#8211;6600 Ext. 84306 / 2278&#8211;6633</string>
+    <string name="specialists_a_r_h">Dr. Luis Osorio Canales\nCirugía Ortopédica y Traumatología\nCirujano de Columna\nHospital Vivian Pellas/Clínica Médico Tercer Milenio\n2255&#8211;6900 Ext. 87248 / 2220&#8211;4619</string>
+    
+
+    <string name="specialists_a_z">Otorrinolaringología</string>
+    <string name="specialists_b_a">Dra. Norma Casco\nOtorrinolaringóloga\nConsultorio Privado\n2266&#8211;6610\n2250&#8211;2331</string>
+    <string name="specialists_b_b">Dr. Álvaro Fuentes\nOtorrinolaringólogo - Microcirugía de oído y laringe, cirugía funcional endoscópica\nHospital Metropolitano\n2255&#8211;6900 ext 4205</string>
+    <string name="specialists_b_c">Dra. Maria Lorena Isabá\nOtorrinolaringóloga\nHospital Metropolitano\n2255&#8211;6900 ext 4242, 2266&#8211;8888</string>
+    <string name="specialists_b_b_d">Dra. Mayra Castro\nOtorrinolaringóloga\nClínica Santa Fe\nLab. Clínico Nicaragüense\nHospital Bautista\n8510&#8211;5607 / 8388&#8211;0810</string>
+
+    <string name="specialists_b_d">Urología</string>
+    <string name="specialists_b_e">Dr. Adolfo Etienne Pérez\nCirujano Urólogo - Cirugía Laparoscópica urológica.\nHospital Metropolitano\n2255&#8211;6900 ext 4300</string>
+    <string name="specialists_b_f">Dr. Carlos Neira Cuadra\nUrología - Endourología y oncología urológica.\nHospital Metropolitano\n2255&#8211;6900 ext 4315</string>
+
+    <string name="specialists_note">Nota: Le aconsejamos utilice a los médicos de red para un mejor uso de su póliza. Los cirujanos en su mayoría operan en los diferentes hospitales de Red de Seguros América.</string>
+
+    <string name="title_activity_slick_developers">SlickDevelopersActivity</string>
+    <string name="empty_coordinates">Espere un momento mientras se obtienen las coordenadas y vuelva a intentarlo.</string>
+    <string name="mainactivity.imageview.browser.url">https://www.segurosamerica-ecommerce.com.ni/AutoConsulta/Seguridad/Login</string>
+
+</resources>

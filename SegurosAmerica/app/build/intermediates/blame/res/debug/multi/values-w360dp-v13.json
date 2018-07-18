@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/luchonet/Documents/Projects/luchonetvv/slickdevelopers/SegurosAmerica/SegurosAmerica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/luchonet/.android/build-cache/566bcd2498fedc5910b47ac3a8d2bb6617c93a8b/output/res/values-w360dp/values-w360dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 54,
+                        "endOffset": 329
+                    }
+                }
+            }
+        ]
+    }
+]

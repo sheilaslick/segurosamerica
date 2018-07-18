@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="contact_image_height">220dp</dimen>
+    <dimen name="ic_home_width">240dp</dimen>
+    
+
+</resources>

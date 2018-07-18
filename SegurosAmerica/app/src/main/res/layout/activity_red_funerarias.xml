@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lnLyRedFunerarias"
+    style="@style/LayoutWhite"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/barRedFunerarias"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bar_silver"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/imageButtonRedFunerariasCenterBack"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="left"
+            android:background="@drawable/bar_silver"
+            android:src="@drawable/navigation_previous_item" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:paddingRight="50dp"
+            android:src="@drawable/ic_seguros_america" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:orientation="vertical" >
+    		
+            <TextView 
+                style="@style/CaptionHeader"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/funerarias" />
+
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginBottom="7dp"
+	            android:layout_marginTop="7dp"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaCarmen"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:layout_gravity="center_vertical"
+	                android:contentDescription="@string/descripcion_el_carmen"
+	                android:src="@drawable/funeraria_uno" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaCarmen"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_el_carmen" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginBottom="7dp"
+	            android:layout_marginTop="7dp"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaAlba"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:contentDescription="@string/descripcion_el_alba"
+	                android:src="@drawable/funeraria_dos" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaAlba"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_el_alba" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal"
+	            android:layout_marginTop="7dp"
+	            android:layout_marginBottom="7dp" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaCatolica"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:contentDescription="@string/descripcion_la_catolica"
+	                android:src="@drawable/funeraria_tres" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaCatolica"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_la_catolica" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal"
+	            android:layout_marginTop="7dp"
+	            android:layout_marginBottom="7dp" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaRenazco"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:contentDescription="@string/descripcion_el_renazco"
+	                android:src="@drawable/funeraria_cuatro" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaRenazco"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_el_renazco" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginBottom="7dp"
+	            android:layout_marginTop="7dp"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaMonteOlivos"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:contentDescription="@string/descripcion_monte_olivos"
+	                android:src="@drawable/funeraria_cinco" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaMonteOlivos"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_monte_olivos" />
+	        </LinearLayout>
+	
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="center_vertical"
+	            android:orientation="horizontal"
+	            android:layout_marginTop="7dp"
+	            android:layout_marginBottom="7dp" >
+	
+	            <ImageView
+	                android:id="@+id/imgViewFunerariaCentralSanFelipe"
+	                android:layout_width="96dp"
+	                android:layout_height="fill_parent"
+	                android:contentDescription="@string/descripcion_central_san_felipe"
+	                android:src="@drawable/funeraria_san_felipe" />
+	
+	            <TextView
+	                android:id="@+id/txtViewFunerariaCentralSanFelipe"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:textStyle="bold"
+					android:textColor="@color/black"
+	                android:text="@string/funeraria_central_san_felipe" />
+	        </LinearLayout>
+    
+    	</LinearLayout>
+        
+    </ScrollView>
+
+</LinearLayout>
